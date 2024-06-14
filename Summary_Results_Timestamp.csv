@@ -1,0 +1,3 @@
+Agent,Max_Benefit_City,Max_Benefit,Min_Benefit_City,Min_Benefit,Avg_Benefit,Max_Payoff_City,Max_Payoff,Min_Payoff_City,Min_Payoff,Avg_Payoff,Max_Timestamp,Min_Timestamp,Avg_Timestamp
+Agent1,7,2700,8,600,659.210526315789,7,2485.8,9,562.02,620.802915789473,1071,0,56.4075289473685
+Agent2,19,2400,19,300,753.947368421053,18,2240.622,19,287.042,706.690868421053,908.2,0,78.5829934210527
