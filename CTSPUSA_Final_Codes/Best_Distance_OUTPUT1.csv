@@ -1,0 +1,2 @@
+Run_No,Pair_Index,Starting_City_Agent1,Starting_City_Agent2,Agent1_Path,Agent2_Path,Agent1_Benefit,Agent2_Benefit,Agent1_Cost,Agent2_Cost,Agent1_Payoff,Agent2_Payoff,Total_Benefit,Total_Payoff,Average_Payoff,Agent1_City_Count,Agent2_City_Count,Agent1_Timestamps,Agent2_Timestamps
+3,9,10,1,"10, 2, 3, 6, 7, 8,12,14,15,19,20","1, 4, 5, 9,11,13,16,17,18",1650,1350,80.558,56.76,1569.442,1293.24,3000,2862.682,1431.341,11,9,"0,32,85,123,140,200,224,247,295,344.2,376.59,402.79","0,21,63,75,95.5,133.7,182.9,209.7,235.8,283.8"
